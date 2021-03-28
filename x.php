@@ -49,19 +49,11 @@ if(get_magic_quotes_gpc()) {
 <!DOCTYPE HTML>
 <html>
 <!--
-###############################################################################
-// Thanks buat Orang-orang yg membantu dalam proses pembuatan shell ini.
-// Shell ini tidak sepenuhnya 100% Coding manual, ada beberapa function dan tools kita ambil dari shell yang sudah ada.
-// Tapi Selebihnya, itu hasil kreasi IndoXploit sendiri.
-// Tanpa kalian kita tidak akan BESAR seperti sekarang.
-// Greetz: All Member IndoXploit. & All My Friends.
-###############################################################################
-// Special Thanks: Depok Cyber Security | Sanjungan Jiwa | 0x1999
-###############################################################################
+
 -->
 <head>
-<title>IndoXploit</title>
-<meta name='author' content='IndoXploit'>
+<title>Hello World</title>
+<meta name='author' content='Hello World'>
 <meta charset="UTF-8">
 <style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Ubuntu);
